@@ -1,0 +1,38 @@
+.footerDiv {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+.footerImageStyle {
+    height: 80px;
+    width: 80px;
+}
+
+.subFooterDiv {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    gap: 15px;
+}
+
+.sectionFooter {
+    display: flex;
+    flex-direction: column;
+    margin: 15px;
+    font-weight: 500;
+    color: rgb(63, 62, 62);
+    text-align: center;
+}
+
+.sectionPFooter {
+    color: black;
+    margin-top: -20px;
+}
+
+.contentH5Footer {
+    margin-top: -12px;
+    font-size: 15px;
+}

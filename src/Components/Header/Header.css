@@ -1,0 +1,20 @@
+/* Google font: */
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Oxygen:wght@300;400;700&display=swap');
+
+.oxygen-regular {
+    font-family: "Oxygen", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+}
+
+h4 {
+    padding-top: 7px;
+}
+
+.headerDiv {
+    background-color: rgb(10, 165, 165);
+    color: white;
+    font-weight: 700;
+    padding: 2px;
+    text-align: center;
+}

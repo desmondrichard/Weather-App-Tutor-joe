@@ -1,0 +1,18 @@
+.searchCityDiv {
+    margin: 15px;
+}
+
+.label {
+    position: absolute;
+    left: 99999px;
+}
+
+.searchCityFormParent {
+    display: flex;
+    flex-direction: row;
+    gap: 0px;
+}
+
+.searchBtn {
+    margin-left:-43px;
+}
